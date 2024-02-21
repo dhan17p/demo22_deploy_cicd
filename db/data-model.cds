@@ -5,3 +5,8 @@ entity Books {
   title  : String;
   stock  : Integer;
 }
+entity try {
+
+  key id  :  String;
+  
+}

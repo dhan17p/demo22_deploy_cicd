@@ -1,5 +1,5 @@
 <core:FragmentDefinition xmlns:core="sap.ui.core" xmlns="sap.m" xmlns:macros="sap.fe.macros">
-	<VBox>
-		<Button core:require="{ handler: 'project1/ext/fragment/Fragment'}" text="Fragment" press="handler.onPress" />
+	<VBox id="eee">
+		<Button id="sdfgh" core:require="{ handler: 'project1/ext/fragment/Fragment'}" text="Fragment" press="handler.onPress" />
 	</VBox> vb[njj]
 </core:FragmentDefinition>
