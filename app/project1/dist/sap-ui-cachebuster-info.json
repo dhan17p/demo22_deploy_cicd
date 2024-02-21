@@ -1,8 +1,11 @@
 {
-  "manifest.json": 1708341909870,
-  "Component.js": 1708340454896,
+  "ext/fragment/Fragment.js": 1708343669559,
   "i18n/i18n.properties": 1708340518218,
-  "Component-preload.js": 1708341910126,
+  "manifest.json": 1708499166274,
+  "Component.js": 1708340454896,
+  "Component-preload.js": 1708499166564,
+  "ext/fragment/Fragment-dbg.js": 1708343669559,
   "Component-dbg.js": 1708340454896,
+  "ext/fragment/Fragment.fragment.xml": 1708344023191,
   "index.html": 1708340454896
 }

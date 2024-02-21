@@ -96,7 +96,6 @@
             "css": []
         },
         "routing": {
-            "config": {},
             "routes": [
                 {
                     "pattern": ":?query:",
@@ -135,7 +134,22 @@
                     "options": {
                         "settings": {
                             "editableHeaderContent": false,
-                            "contextPath": "/Books"
+                            "contextPath": "/Books",
+                            "content": {
+                                "body": {
+                                    "sections": {
+                                        "Fragment": {
+                                            "template": "project1.ext.fragment.Fragment",
+                                            "position": {
+                                                "placement": "After",
+                                                "anchor": "GeneratedFacet1"
+                                            },
+                                            "title": "custum",
+                                            "type": "XMLFragment"
+                                        }
+                                    }
+                                }
+                            }
                         }
                     }
                 }
